@@ -42,4 +42,6 @@ Once you open the site and see the home page click on the 'Get Started' button. 
 
 ## Links
 
+https://note-taker-kpi8.onrender.com
+
 https://github.com/jregues/note-taker
